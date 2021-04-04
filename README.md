@@ -22,3 +22,7 @@ No meu tempo livre, gosto de assistir séries e animes, gosto de ler, aprender e
 
 </div>
 
+
+## Site
+
+Conheça também o meu site [clicando aqui](https://lucaslorran.tech/)
