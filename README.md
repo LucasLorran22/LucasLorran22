@@ -18,7 +18,7 @@ No meu tempo livre, gosto de assistir séries e animes, gosto de ler, aprender e
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGI-Txvln3-1jMmLgDdocRZEhyfa9q-hwUeK0wGAZn2cv8URFRAnVZIZ47dIKOYAqJGec&usqp=CAU" width="50" height="50">
 
-<img src="https://w7.pngwing.com/pngs/979/546/png-transparent-postgresql-database-computer-software-installation-linux-back-blue-data-electric-blue.png" width="50" height="50">
+<img src="https://img2.gratispng.com/20180415/scq/kisspng-postgresql-pgadmin-computer-icons-database-depende-elephants-5ad386c44da401.130283161523812036318.jpg" width="50" height="50">
 
 </div>
 
