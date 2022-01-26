@@ -8,7 +8,7 @@ No meu tempo livre, gosto de assistir séries e animes, gosto de ler, aprender e
 
 <img src="https://camo.githubusercontent.com/6db79c4756012955ae54c054779b4b8a5c61c010ecae847e5da4341a16393c42/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f313035312f313035313237372e737667" width="50" height="50">
 
-<img src="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-css-file-document-icon-png-image_927823.jpg" width="50" height="50">
+<!-- <img src="https://png.pngtree.com/png-vector/20190411/ourlarge/pngtree-css-file-document-icon-png-image_927823.jpg" width="50" height="50"> -->
 
 <img src="https://img.icons8.com/color/452/javascript.png" width="50" height="50">
 
