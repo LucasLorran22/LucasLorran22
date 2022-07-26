@@ -7,7 +7,7 @@ No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e
 <div display="flex">
 
 <!-- Icon HTML -->
-<img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="60" height="60"> 
+<a href="https://pt.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="60" height="60"></a>
 
 <!-- Icon CSS -->
 <img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" width="60" height="60"> 
