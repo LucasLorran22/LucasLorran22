@@ -22,7 +22,7 @@ No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e
 <img src="https://gblobscdn.gitbook.com/spaces%2F-LanYWbVFl837-fblbH8%2Favatar.png?alt=media" width="60" height="60"> 
 
 <!-- Icon MySQL -->
-<img src="https://cdn-icons-png.flaticon.com/512/7207/7207730.png" width="60" height="60">
+<img src="https://cdn-icons-png.flaticon.com/512/7207/7207175.png" width="60" height="60">
 
 </div>
 
