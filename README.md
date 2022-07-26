@@ -15,17 +15,17 @@ No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e
 <!-- Icon JavaScript -->
 <img src="https://cdn-icons-png.flaticon.com/512/136/136530.png" width="60" height="60"> 
 
-<!-- Icon JavaScript -->
+<!-- Icon PHP -->
 <img src="https://cdn-icons.flaticon.com/png/512/5815/premium/5815212.png?token=exp=1658847873~hmac=59ef98738a2da209ea82ca0a6fd79fac" width="60" height="60">
+
+<!-- Icon MySQL -->
+<img src="https://cdn-icons-png.flaticon.com/512/7207/7207175.png" width="60" height="60">
 
 <!-- Icon Dart -->
 <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="60" height="60"> 
 
 <!-- Icon Flutter -->
 <img src="https://gblobscdn.gitbook.com/spaces%2F-LanYWbVFl837-fblbH8%2Favatar.png?alt=media" width="60" height="60"> 
-
-<!-- Icon MySQL -->
-<img src="https://cdn-icons-png.flaticon.com/512/7207/7207175.png" width="60" height="60">
 
 </div>
 
