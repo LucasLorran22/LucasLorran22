@@ -7,22 +7,22 @@ No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e
 <div display="flex">
 
 <!-- Icon HTML -->
-<img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="50" height="50"> 
+<img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="60" height="60"> 
 
 <!-- Icon CSS -->
-<img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" width="50" height="50"> 
+<img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" width="60" height="60"> 
 
 <!-- Icon JavaScript -->
-<img src="https://cdn-icons-png.flaticon.com/512/136/136530.png" width="50" height="50"> 
+<img src="https://cdn-icons-png.flaticon.com/512/136/136530.png" width="60" height="60"> 
 
 <!-- Icon Dart -->
-<img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="50" height="50"> 
+<img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="60" height="60"> 
 
 <!-- Icon Flutter -->
-<img src="https://gblobscdn.gitbook.com/spaces%2F-LanYWbVFl837-fblbH8%2Favatar.png?alt=media" width="50" height="50"> 
+<img src="https://gblobscdn.gitbook.com/spaces%2F-LanYWbVFl837-fblbH8%2Favatar.png?alt=media" width="60" height="60"> 
 
 <!-- Icon MySQL -->
-<img src="https://cdn-icons-png.flaticon.com/512/7207/7207730.png" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/7207/7207730.png" width="60" height="60">
 
 </div>
 
