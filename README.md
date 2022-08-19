@@ -6,7 +6,7 @@ No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e
 ## Tecnologias
 <div display="flex">
 
-  
+ <!-- 
 <a title="PHP" href="#"><img src="img/php.svg" alt="PHP" width="28px" height="28px"></a>
 <a title="WordPress" href="#"><img src="img/wordpress.svg" alt="WordPress" width="28px" height="28px"></a>
 <a title="Dart" href="#"><img src="img/dart.svg" alt="Dart" width="28px" height="28px"></a>
@@ -18,7 +18,7 @@ No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e
 <a title="Git" href="#"><img src="img/git.svg" alt="Git" width="28px" height="28px"></a>
 <a title="MySQL" href="#"><img src="img/mysql.svg" alt="MySQL" width="28px" height="28px"></a>
 <a title="PostgreSQL" href="#"><img src="img/postgresql.svg" alt="PostgreSQL" width="28px" height="28px"></a> 
- 
+ -->
 <!-- Icon HTML -->
 <img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="50" height="50">
 
