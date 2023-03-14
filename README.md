@@ -1,6 +1,6 @@
 #### E ai!! Beleza? </br>
 👋 Seja bem vindo!! 😄</br></br>
-Meu nome é Lucas Lorran, atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.</br>
+Sou Lucas Lorran, atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.</br>
 <!--No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e praticar LIBRAS, jogar vôlei e aprender sobre novas tecnologias;-->
 
 ## Tecnologias
