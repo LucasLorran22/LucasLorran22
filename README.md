@@ -11,15 +11,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista d
 ## Tecnologias
 <div display="flex">
 
-<div style="display: inline_block"><br>
- <a href="https://github.com/guiparpineli">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Gui-Anroid" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
- </a>
- </div>
-
 <!-- Icon HTML -->
 <img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="50" height="50">
 
