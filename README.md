@@ -2,11 +2,12 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasLorran22/LucasLorran22)](https://github.com/LucasLorran22/LucasLorran22)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lorran-344726131/)](https://www.linkedin.com/in/lucas-lorran-344726131/)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link= https://www.linkedin.com/in/lucas-lorran-344726131/)](https://www.linkedin.com/in/lucas-lorran-344726131/) -->
 
 </br>
+
+## Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.</br>
-<!--No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e praticar LIBRAS, jogar vôlei e aprender sobre novas tecnologias;-->
+
 
 ## Tecnologias
 <div display="flex">
