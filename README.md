@@ -3,11 +3,12 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasLorran22/LucasLorran22)](https://github.com/LucasLorran22/LucasLorran22)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lorran-344726131/)](https://www.linkedin.com/in/lucas-lorran-344726131/)
 
-</br>
+
 
 ## Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.</br>
 
+<br>
 
 ## Tecnologias
 <div display="flex">
@@ -34,7 +35,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista d
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183618.png" width="50" height="50">
 
 </div>
-
+<br>
 
 ## Site
 
