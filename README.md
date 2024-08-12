@@ -8,7 +8,6 @@
 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.</br>
 
 <br>
-
 ## Tecnologias
 <div display="flex">
 
@@ -36,7 +35,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista d
 </div>
 
 <br>
-
 ## Site
 
 Conheça também o meu Portfólio (em desenvolvimento) <a href="https://lucaslorran22.github.io/Projeto_Portfolio_Web/" target="_blank">clicando aqui.</a>
