@@ -4,8 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lorran-344726131/)](https://www.linkedin.com/in/lucas-lorran-344726131/)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link= https://www.linkedin.com/in/lucas-lorran-344726131/)](https://www.linkedin.com/in/lucas-lorran-344726131/) -->
 
-👋 Seja bem vindo!! 😄</br></br>
-
+</br>
 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.</br>
 <!--No meu tempo livre, gosto de assistir séries e filmes, gosto de ler, aprender e praticar LIBRAS, jogar vôlei e aprender sobre novas tecnologias;-->
 
