@@ -45,4 +45,4 @@ Sou Lucas Lorran, formado em Análise e Desenvolvimento de Sistemas e trabalho c
 
 ## Site
 
-Conheça também o meu site (em desenvolvimento) <a href="https://lucaslorran.com.br" target="_blank">clicando aqui.</a>
+Conheça também o meu Portfólio (em desenvolvimento) <a href="https://lucaslorran22.github.io/Projeto_Portfolio_Web/" target="_blank">clicando aqui.</a>
