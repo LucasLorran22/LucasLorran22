@@ -28,14 +28,14 @@ Sou Lucas Lorran, formado em Análise e Desenvolvimento de Sistemas e trabalho c
 <!-- Icon JavaScript -->
 <img src="https://cdn-icons-png.flaticon.com/512/136/136530.png" width="50" height="50">
 
-<!-- Icon PHP -->
-<img src="https://cdn-icons-png.flaticon.com/512/2306/2306154.png" width="50" height="50">
+<!-- Icon JAVA -->
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183618.png" width="50" height="50">
 
 <!-- Icon MySQL -->
 <img src="https://cdn-icons-png.flaticon.com/512/7207/7207175.png" width="50" height="50">
 
 <!-- Icon Dart -->
-<img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="50" height="50">
+<!-- <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="50" height="50">
 
 <!-- Icon Flutter -->
 <img src="https://gblobscdn.gitbook.com/spaces%2F-LanYWbVFl837-fblbH8%2Favatar.png?alt=media" width="50" height="50">
