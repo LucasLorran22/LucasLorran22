@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lorran-344726131/)](https://www.linkedin.com/in/lucas-lorran-344726131/)
 
 
-
 ## Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.</br>
 
@@ -35,6 +34,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista d
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183618.png" width="50" height="50">
 
 </div>
+
 <br>
 
 ## Site
