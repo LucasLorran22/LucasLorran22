@@ -10,7 +10,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista d
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=F29111)
-![JAVA](https://img.shields.io/badge/JAVA-D0312D?style=for-the-badge&logo=ja&logoColor=F29111)
+![Java](https://img.shields.io/badge/java-%23D0312D.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-30A3DC?style=for-the-badge&logo=Dart&logoColor=FFF)
 ![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=Flutter&logoColor=FFF)
 
