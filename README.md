@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+muito+bem+vindo!+:%29)](https://git.io/typing-svg)
+
 # Lucas Lorran
-## Entre em contato comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lorran-344726131/)
 
 ## Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.
@@ -23,3 +23,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista d
 
 ## Site
 Conheça também o meu Portfólio (em desenvolvimento) <a href="https://lucaslorran22.github.io/Projeto_Portfolio_Web/" target="_blank">clicando aqui</a>.
+
+## Redes sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lorran-344726131/)
+
