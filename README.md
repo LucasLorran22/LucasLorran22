@@ -1,9 +1,9 @@
 # Lucas Lorran
 
-## Sobre mim
+## 👀 Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.
 
-## Habilidades
+## 👩🏽‍💻 Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,9 +19,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista d
 ## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasLorran22&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Site
+## 🖥 Site
 Conheça também o meu Portfólio (em desenvolvimento) <a href="https://lucaslorran22.github.io/Projeto_Portfolio_Web/" target="_blank">clicando aqui</a>.
 
-## Redes sociais
+## 📲 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lorran-344726131/)
 
