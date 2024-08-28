@@ -1,42 +1,26 @@
-# Olá, Sou Lucas!
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasLorran22/LucasLorran22)](https://github.com/LucasLorran22/LucasLorran22)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lorran-344726131/)](https://www.linkedin.com/in/lucas-lorran-344726131/)
-
+# Lucas Lorran
+## Entre em contato comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lorran-344726131/)
 
 ## Sobre mim
-Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.</br>
+Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.
 
-</br>
+## Habilidades
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=F29111)](https://dev.mysql.com/doc/)
+[![MySQL](https://img.shields.io/badge/JAVA-00758F?style=for-the-badge&logo=ja&logoColor=F29111)](https://docs.oracle.com/en/java/)
+[![Dart](https://img.shields.io/badge/Dart-30A3DC?style=for-the-badge&logo=Dart&logoColor=FFF)](https://dart.dev/guides)
+[![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=Flutter&logoColor=FFF)](https://docs.flutter.dev/)
 
-## Tecnologias
-<div display="flex">
 
-<!-- Icon HTML -->
-<img src="https://cdn-icons-png.flaticon.com/512/136/136528.png" width="50" height="50">
+## Estatísticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasLorran22&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<!-- Icon CSS -->
-<img src="https://cdn-icons-png.flaticon.com/512/136/136527.png" width="50" height="50">
-
-<!-- Icon JavaScript -->
-<img src="https://cdn-icons-png.flaticon.com/512/136/136530.png" width="50" height="50">
-
-<!-- Icon MySQL -->
-<img src="https://cdn-icons-png.flaticon.com/512/7207/7207175.png" width="50" height="50">
-
-<!-- Icon Dart -->
-<img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="50" height="50">
-
-<!-- Icon Flutter -->
-<img src="https://gblobscdn.gitbook.com/spaces%2F-LanYWbVFl837-fblbH8%2Favatar.png?alt=media" width="50" height="50">
-
-<!-- Icon JAVA -->
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183618.png" width="50" height="50">
-
-</div>
-
-</br>
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasLorran22&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Site
 
-Conheça também o meu Portfólio (em desenvolvimento) <a href="https://lucaslorran22.github.io/Projeto_Portfolio_Web/" target="_blank">clicando aqui.</a>
+Conheça também o meu Portfólio (em desenvolvimento) [clicando aqui](href="https://lucaslorran22.github.io/Projeto_Portfolio_Web/).
