@@ -1,7 +1,7 @@
 # Lucas Lorran
 
 ## Sobre mim
-• Sou formado em Análise e Desenvolvimento de Sistemas. 
+• Sou formado em Análise e Desenvolvimento de Sistemas. <br>
 • Atualmente trabalho como Analista de Banco de Dados.
 
 ## Tecnologias
