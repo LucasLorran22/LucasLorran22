@@ -21,7 +21,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasLorran22&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Site
-Conheça também o meu Portfólio (em desenvolvimento) <a href="https://www.lucaslorra.com.br/" target="_blank">clicando aqui</a>.
+Conheça também o meu Portfólio (em desenvolvimento) <a href="https://www.lucaslorran.com.br/" target="_blank">clicando aqui</a>.
 
 ## 📲 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lorran-344726131/)
