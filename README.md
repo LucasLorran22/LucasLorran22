@@ -1,7 +1,8 @@
 # Lucas Lorran
 
 ## Sobre mim
-Sou formado em Análise e Desenvolvimento de Sistemas e trabalho como Analista de Banco de Dados.
+• Sou formado em Análise e Desenvolvimento de Sistemas. 
+• Atualmente trabalho como Analista de Banco de Dados.
 
 ## Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
