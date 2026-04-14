@@ -12,10 +12,5 @@ Formado em Análise e Desenvolvimento de Sistemas. No momento estou focando em B
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lucaslorran22&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lucaslorran22&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ## 📲 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lorran-344726131/)
-
