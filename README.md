@@ -5,6 +5,7 @@ Formado em Análise e Desenvolvimento de Sistemas. No momento estou focando em B
 
 ## 💻 Tecnologias:
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=F29111)
+![MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23D0312D.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
