@@ -2,6 +2,7 @@
 
 Formado em Análise e Desenvolvimento de Sistemas. No momento estou focando em BackEnd com Java e buscando evoluir um pouco todos os dias. Atualmente trabalho como Analista de Banco de Dados, e isso me dá uma boa base prática com dados e sistemas no dia a dia.<br><br>Pratico criando projetos, organizando ideias e compartilhando conhecimento sempre que possível. Tenho interesse em desenvolvimento de aplicações, integração com banco de dados e boas práticas de código.<br><br>Também curto participar de iniciativas em comunidade e criar conteúdo — seja sobre tecnologia ou outros projetos que faço parte.
 
+--- 
 
 ### 💻 Tecnologias:
 
@@ -11,7 +12,7 @@ Formado em Análise e Desenvolvimento de Sistemas. No momento estou focando em B
   </a>
 </div>
 
-...
+---
 
 ### 🚀 Projetos em Destaque
 
