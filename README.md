@@ -33,9 +33,7 @@ Formado em Análise e Desenvolvimento de Sistemas. No momento estou focando em B
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucaslorran/lucaslorran/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+---
 
 ## 📲 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lorran-344726131/)
