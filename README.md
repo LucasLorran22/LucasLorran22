@@ -8,7 +8,7 @@ Formado em Análise e Desenvolvimento de Sistemas. No momento estou focando em B
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,nodejs,js,docker,git,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,java,spring,git&theme=dark" />
   </a>
 </div>
 
