@@ -17,7 +17,7 @@ Formado em Análise e Desenvolvimento de Sistemas. No momento estou focando em B
 ### 🚀 Projetos em Destaque
 
 #### 📋 App de TO-DO List no Android - Em desenvolvimento...
-*O core de um sistema de controle pessoal financeiro.*
+*Aplicativo de lista de tarefas*
 - **Tecnologias:** Kotlin, Jetpack Compose, Room, Coroutines e Flow, Injeção de dependência.
 - **Destaques Arquiteturais:** - 
   - Arquitetura **MVVM**.
