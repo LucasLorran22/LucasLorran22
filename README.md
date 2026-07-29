@@ -16,11 +16,11 @@ Formado em Análise e Desenvolvimento de Sistemas. No momento estou focando em B
 
 ### 🚀 Projetos em Destaque
 
-#### 💰 Controle Financeiro (API RESTful) - Em desenvolvimento...
+#### 📋 App de TO-DO List no Android - Em desenvolvimento...
 *O core de um sistema de controle pessoal financeiro.*
-- **Tecnologias:** Java 25, Spring Boot.
+- **Tecnologias:** Kotlin, Jetpack Compose, Room, Coroutines e Flow, Injeção de dependência.
 - **Destaques Arquiteturais:** - 
-  - Implementação de **Arquitetura Limpa**.
+  - Arquitetura **MVVM**.
 
 ---
 
